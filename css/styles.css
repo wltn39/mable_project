@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Jua&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto:wght@700&display=swap");
 @import "reset.css";
 @import "variables.css";
 
@@ -21,7 +21,7 @@
 @import "screens/chat.css";
 
 body {
-  font-family: "Jua", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #424744;
 
   margin: 10px;
