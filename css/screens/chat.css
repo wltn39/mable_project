@@ -1,5 +1,5 @@
 #chat-screen {
-  background-color: hsl(205, 29%, 75%);
+  background-color: #f2f2f2;
   /* height: 300vh; */
 }
 
@@ -57,12 +57,10 @@
 }
 
 .chat__timestamp {
-  background-color: #92a4b2;
-  padding: 10px 25px;
-  color: whitesmoke;
+  color: black;
   border-radius: 15px;
-  margin-top: 10px;
-  font-size: 14px;
+  margin-top: 30px;
+  font-size: 16px;
   opacity: 0.7;
   font-weight: 100;
   margin-bottom: 30px;
